@@ -33,3 +33,10 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# environment files
+.env.production
+
+#platform directory
+/ios/
+/android/
